@@ -1,0 +1,10 @@
+PYTHON|A snake, and also a programming language
+GUITAR|A six-stringed musical instrument
+GRAVITY|The force that pulls objects towards Earth
+LIBRARY|A place full of borrowable books
+MACHINE|A device that does mechanical work
+JOURNEY|A trip from one place to another
+CAPTAIN|The person in command of a ship
+DIAMOND|A very hard and precious gemstone
+MONITOR|The screen you look at while coding
+NETWORK|Computers connected so they can share data

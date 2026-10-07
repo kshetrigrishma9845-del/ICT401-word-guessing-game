@@ -1,0 +1,6 @@
+CLOUD|WIN|CLI|score=50|lives=5
+APPLE|WIN|GUI|score=40|lives=3
+CHAIR|WIN|GUI|score=50|lives=1
+JOURNEY|LOSS|GUI|score=20|lives=0
+LIBRARY|LOSS|GUI|score=30|lives=0
+PYTHON|LOSS|CLI|score=0|lives=0

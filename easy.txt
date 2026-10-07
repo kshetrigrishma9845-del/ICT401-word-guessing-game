@@ -1,0 +1,10 @@
+APPLE|A common fruit, often red or green
+CHAIR|You sit on this
+BREAD|A baked staple made from flour
+RIVER|Water flowing towards the sea
+CLOUD|Floats in the sky and can bring rain
+HOUSE|A building where people live
+GREEN|The colour of grass
+MUSIC|Organised sound you listen to
+TIGER|A large striped wild cat
+LEMON|A sour yellow citrus fruit

@@ -1,0 +1,10 @@
+ALGORITHM|A step-by-step procedure for solving a problem
+ENCAPSULATION|Hiding an object's internal state behind methods
+POLYMORPHISM|One interface working with many different types
+RECURSION|A function that calls itself
+INHERITANCE|A class receiving behaviour from a parent class
+ABSTRACTION|Exposing only the essential details of a system
+PERSISTENCE|Keeping data alive after the program exits
+CONCURRENCY|Several tasks making progress at the same time
+REFACTORING|Restructuring code without changing its behaviour
+EXCEPTION|An error signal that interrupts normal flow
